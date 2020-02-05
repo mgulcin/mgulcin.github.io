@@ -1,0 +1,130 @@
+/* UNIVERSAL STYLING */
+html,body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	font-family: garamond;
+	font-size: 14pt;
+}
+A:link{ 
+	text-decoration:none; 
+	color:#064c91}
+a:visited{ 
+	text-decoration:none;
+	color:#064c91}
+a:active{ 
+	text-decoration:none;
+	color:#0978e7}
+a:hover{ text-decoration:none;
+	color:#0978e7}
+ul.simplelist {
+	list-style:none; 
+	margin-left:0px; 
+	padding-left:0px;
+}
+
+/* LAYOUT STYLING */
+div#outer {
+	position: relative; /* needed for footer positioning*/
+	margin: 0 auto; /* center, not in IE5 */
+	width: auto !important;
+	width: 100%;
+	min-width: 100%;
+	height: auto !important; /* real browsers */
+	height: 100%; /* IE6: treated as min-height*/
+	min-height: 100%; /* real browsers */
+}
+
+div.top  {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100px;
+	height: 100px;
+	background-color: #ffffff;
+	
+}
+
+
+div.bottom div.left {
+	position: absolute;
+	left: 0px;
+	top: 100px;
+	bottom: 0px;
+	width: 40px;
+	background-color: #ffffff;
+}
+
+div.bottom div.main {
+	position: absolute;
+	left: 0px;
+	top: 100px;
+	bottom: 0px;
+	width:85%; 
+	background-color: #ffffff;
+	padding: 15px;
+}
+
+div.figure {
+	float:left; 
+	width:20%; 
+	text-align:center;
+	padding-top: 3em;
+}
+
+img#name {
+	position: absolute;
+	top: 45px; 
+	left: 45px;
+	height: 55px;
+}
+img#email{
+	position: absolute;
+	top: 77px; 
+	right: 10px;
+	height: 3ex;
+}
+img#gradient {
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+}
+
+/* CONTENT STYLING */
+div.heading {
+	font-size:large;
+	font-weight:bold;
+	color:black; 
+	font-family: garamond;
+}
+
+li.year {
+	list-style:none;
+	font-size:large;
+	font-weight:bold;
+	margin-top: 1em;
+}
+li.pubitem {
+	margin-top: 0.5em;
+}
+a.pubtitle {
+}
+a.pubauthor {
+	color:#213C53;
+}
+div.pubInfo {
+	margin-left: 15px;
+	border-left-style: solid;
+	border-width:2px;
+	border-color: #aaaaaa;
+}
+div.pubjournal {
+	font-style:italic;
+	color:#213C53;
+}
+div.pubspan {
+	font-size:small;
+	word-spacing:5px;
+}
+
+
