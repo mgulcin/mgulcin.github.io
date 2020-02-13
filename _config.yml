@@ -1,0 +1,34 @@
+# General settings
+title: Makbule Gulcin Ozsoy 
+title_html: "<b>Makbule Gulcin Ozsoy / Makbule Gülçin Özsoy</b>"
+description: I'm a PostDoc working mostly on Recommender Systems #Makbule Gülçin Özsoy #Makbule Gulcin Ozsoy XXXX config yml
+baseurl: ""
+url: "https://mgulcin.com"
+
+# Author
+author: Makbule Gulcin Ozsoy 
+email: first-two-names@gmail.com
+twitter_username: #
+github_username: mgulcin
+keybase_username: #
+linkedin_username: makbulegulcinozsoy
+author_website: #
+rss: #
+curriculum:
+    url: assets/CV_MakbuleGulcinOzsoy.pdf
+user_picture: mgozsoy.jpg
+
+# Favicon
+favicon:
+  safari: 5bbad5
+  theme: ffffff
+
+# Build settings
+markdown: kramdown
+theme: academic
+gems:
+  - jekyll-feed
+exclude:
+  - jekyll_build.sh
+  - Gemfile
+  - Gemfile.lock
