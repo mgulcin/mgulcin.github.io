@@ -9,9 +9,9 @@
   </li>
   {% endif %}
 
-  {% if site.github_username %}
+  {% if site.github_username and site.github_displayname%}
   <li>
-    {% include _icons/github.html username=site.github_username %}
+    {% include _icons/github.html username=site.github_username displayname=site.github_displayname%}
   </li>
   {% endif %}
 
@@ -21,15 +21,21 @@
   </li>
   {% endif %}
 
-  {% if site.linkedin_username %}
+  {% if site.linkedin_username and site.linkedin_displayname%}
   <li>
-    {% include _icons/linkedin.html username=site.linkedin_username %}
+    {% include _icons/linkedin.html username=site.linkedin_username displayname=site.linkedin_displayname%}
   </li>
   {% endif %}
 
   {% if site.keybase_username %}
   <li>
     {% include _icons/keybase.html username=site.keybase_username %}
+  </li>
+  {% endif %}
+  
+ {% if site.google_scholar_username and site.google_scholar_displayname%}
+  <li>
+    {% include _icons/google_scholar.html username=site.google_scholar_username displayname=site.google_scholar_displayname%}
   </li>
   {% endif %}
 
