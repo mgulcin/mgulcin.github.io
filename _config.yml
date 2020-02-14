@@ -25,7 +25,7 @@ favicon:
 
 # Build settings
 markdown: kramdown
-remote_theme: gaalcaras/academic 
+theme: academic 
 gems:
   - jekyll-feed
 exclude:
