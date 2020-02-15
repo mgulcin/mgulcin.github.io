@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Research
-nav_menu_index: '2'
-permalink: /research/
+title: Publications
+nav_menu_index: '3'
+permalink: /publications/
 ---
 
 ## Publications 

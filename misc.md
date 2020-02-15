@@ -2,7 +2,7 @@
 layout: page
 title: Miscellaneous
 permalink: /misc/
-nav_menu_index: '3'
+nav_menu_index: '4'
 ---
 
 ## Talks 

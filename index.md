@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Makbule Gulcin Ozsoy 
+title:  Makbule Gulcin Ozsoy
 invisible: true
 seo:
   title: Makbule Gulcin Ozsoy

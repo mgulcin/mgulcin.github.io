@@ -1,7 +1,7 @@
 # General settings
 title: Makbule Gulcin Ozsoy 
-title_html: "<b>Makbule Gulcin Ozsoy / Makbule Gülçin Özsoy</b>"
-description: I'm a PostDoc working mostly on Recommender Systems #Makbule Gülçin Özsoy #Makbule Gulcin Ozsoy XXXX config yml
+title_html: "<b>Makbule Gulcin Ozsoy<br/>Makbule Gülçin Özsoy</b>"
+description: I'm a PostDoc at UCD, Dublin, Ireland #Makbule Gülçin Özsoy
 baseurl: ""
 url: "https://mgulcin.com"
 
@@ -17,7 +17,6 @@ linkedin_displayname: linkedin
 author_website: #
 google_scholar_username: Cmbcf_UAAAAJ 
 google_scholar_displayname: google_scholar 
-author_website: #
 rss: #
 curriculum:
     url: assets/Cv_MakbuleGulcinOzsoy.pdf
