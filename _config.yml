@@ -1,24 +1,25 @@
 # General settings
 title: Makbule Gulcin Ozsoy 
-title_html: "<b>Makbule Gulcin Ozsoy<br/>Makbule Gülçin Özsoy</b>"
-description: I'm a PostDoc at UCD, Dublin, Ireland #Makbule Gülçin Özsoy
+title_html: "<b>Makbule Gulcin Ozsoy</b>"
+description: Makbule Gülçin Özsoy
 baseurl: ""
 url: "https://mgulcin.com"
 
 # Author
-author: Makbule Gulcin Ozsoy 
-email: first-two-names@gmail.com
+author: Makbule Gulcin Ozsoy
+email: makbulegulcin -at- gmail.com
 twitter_username: #
 github_username: mgulcin
-github_displayname: github
+github_displayname: Github
 keybase_username: #
 linkedin_username: makbulegulcinozsoy
-linkedin_displayname: linkedin
+linkedin_displayname: LinkedIn
 author_website: #
 google_scholar_username: Cmbcf_UAAAAJ 
-google_scholar_displayname: google_scholar 
+google_scholar_displayname: Google Scholar 
 rss: #
 curriculum:
+    name: CV
     url: assets/Cv_MakbuleGulcinOzsoy.pdf
 user_picture: mgozsoy.jpg
 
