@@ -371,7 +371,7 @@
 
   .contact-list {
   	a .username {
-  	 text-transform: capitalize;
+  	 text-transform: none;
   	}
     a .username:hover {
       text-decoration: underline;
@@ -717,7 +717,7 @@
   text-transform: lowercase;
 
   a .username {
-  	 text-transform: capitalize;
+  	 text-transform: none;
   	}
   a:hover {
     text-decoration: none;
