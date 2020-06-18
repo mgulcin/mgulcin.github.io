@@ -10,7 +10,9 @@ nav_menu_index: '0'
 I'm a PostDoctoral Researcher at Insight Centre for Data Analytics, University College Dublin (UCD) (Dublin, Ireland) since February 2019.
 
 My research interests are recommender systems, machine learning and information retrieval. 
-Nowadays I'm working on reinforcement learning-based recommender systems.
+Nowadays, I work on two main topics related to recommender systems:
+(i) Making explainable and novel recommendations in heterogeneous information networks.
+(ii) Application of reinforcement learning methods to recommender systems.
 
 
 I got my BSc degree in 2008, MSc degree in 2011 and PhD degree in 2016, all from Department of Computer Engineering at Middle East Technical University (METU) (Ankara, Turkey). 
