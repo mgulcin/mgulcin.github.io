@@ -5,6 +5,19 @@ nav_menu_index: '3'
 permalink: /research/
 ---
 
+
+## Unrefereed Publications
+
+* [Utilizing FastText for Venue Recommendation.](https://arxiv.org/abs/2005.12982)
+	Makbule Gülçin Özsoy<br/>
+	arXiv, 2020<br/>
+	[[source code]](https://github.com/mgulcin/FastTextRec)<br/>
+	
+* [From Word Embeddings To Item Recommendation](https://arxiv.org/abs/1601.01356)
+	Makbule Gülçin Özsoy<br/>
+	arXiv, 2016<br/>
+	[[source code]](https://github.com/mgulcin/DL_Rec)<br/>
+
 ## Refereed Publications 
 
 * [PyRecGym: A Reinforcement Learning Gym For Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3298689.3346981) <br/>
@@ -69,18 +82,6 @@ permalink: /research/
 	COLING, 2010<br/>
 	[[source code]](https://github.com/mgulcin/LSASummarization)<br/>
 
-
-## Unrefereed Publications
-
-* [Utilizing FastText for Venue Recommendation.](https://arxiv.org/abs/2005.12982)
-	Makbule Gülçin Özsoy<br/>
-	arXiv, 2020<br/>
-	[[source code]](https://github.com/mgulcin/FastTextRec)<br/>
-	
-* [From Word Embeddings To Item Recommendation](https://arxiv.org/abs/1601.01356)
-	Makbule Gülçin Özsoy<br/>
-	arXiv, 2016<br/>
-	[[source code]](https://github.com/mgulcin/DL_Rec)<br/>
 	
 ## Theses
 
