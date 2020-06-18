@@ -5,7 +5,7 @@ nav_menu_index: '3'
 permalink: /research/
 ---
 
-## Publications 
+## Refereed Publications 
 
 * [PyRecGym: A Reinforcement Learning Gym For Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3298689.3346981) <br/>
 	Bichen Shi, Makbule Gülçin Özsoy, Neil Hurley, Barry Smyth, Elias Z Tragos, James Geraci, Aonghus Lawlor<br/>
@@ -21,11 +21,6 @@ permalink: /research/
 	Makbule Gülçin Özsoy, Tansel Özyer, Faruk Polat, Reda Alhajj <br/>
 	BMC Bioinformatics, 2018<br/>
 	[[source code]](https://github.com/mgulcin/DrugRec)<br/>
-		
-* [From Word Embeddings To Item Recommendation](https://arxiv.org/abs/1601.01356)
-	Makbule Gülçin Özsoy<br/>
-	arXiv, 2016<br/>
-	[[source code]](https://github.com/mgulcin/DL_Rec)<br/>
 	
 * [Time Preference Aware Dynamic Recommendation Enhanced With Location, Social Network And Temporal Information](../assets/papers/TimeAwareRec(2016).pdf)<br/>
 	Makbule Gülçin Özsoy, Faruk Polat, Reda Alhajj <br/>
@@ -74,6 +69,19 @@ permalink: /research/
 	COLING, 2010<br/>
 	[[source code]](https://github.com/mgulcin/LSASummarization)<br/>
 
+
+## Unrefereed Publications
+
+* [Utilizing FastText for Venue Recommendation.](https://arxiv.org/abs/2005.12982)
+	Makbule Gülçin Özsoy<br/>
+	arXiv, 2020<br/>
+	[[source code]](https://github.com/mgulcin/FastTextRec)<br/>
+	
+* [From Word Embeddings To Item Recommendation](https://arxiv.org/abs/1601.01356)
+	Makbule Gülçin Özsoy<br/>
+	arXiv, 2016<br/>
+	[[source code]](https://github.com/mgulcin/DL_Rec)<br/>
+	
 ## Theses
 
 * [A Multi-Objective Recommendation System](../assets/papers/ThesisPhD.pdf)<br/>
