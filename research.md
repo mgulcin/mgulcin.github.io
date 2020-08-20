@@ -20,6 +20,14 @@ permalink: /research/
 
 ## Refereed Publications 
 
+* [MP4Rec: Explainable And Accurate Top-N Recommendations In Heterogeneous Information Networks]() <br/>
+	Makbule Gülçin Özsoy, Diarmuid O'Reilly-Morgan, Panagiotis Symeonidis, Neil Hurley, Barry Smyth, Elias~Z Tragos, and Aonghus Lawlor<br/>
+	Submitted, 2020<br/>
+	
+* [A Survey On Deep Reinforcement Learning-based Recommender Systems]() <br/>
+	Neil Hurley, Barry Smyth, Elias~Z Tragos, James Geraci, and Aonghus Lawlor<br/>
+	Submitted, 2020<br/>
+	
 * [PyRecGym: A Reinforcement Learning Gym For Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3298689.3346981) <br/>
 	Bichen Shi, Makbule Gülçin Özsoy, Neil Hurley, Barry Smyth, Elias Z Tragos, James Geraci, Aonghus Lawlor<br/>
 	RecSys, 2019<br/>
