@@ -31,6 +31,10 @@ nav_menu_index: '4'
 	Makbule Gülçin Özsoy, Leanne Wu, Gabriela Jurca <br/>
 	Anita Borg Birthday Celebration Event, Calgary, Alberta, Canada, 2015
 	
+* [T2 Big Data Hackathon](http://www.t2hackathon.com/2014/)<br/>
+Makbule Gülçin Özsoy, Soner Altin, Erkan Kerti, Serkan Ozal, Ibrahim Gurses, Baris Bal, Abdullah Cetin Cavdar, T2 Yazilim<br/>
+T2 Big Data Hackathon, Calgary, Ankara, Turkey, 2014
+	
 ## Volunteered 
 
 * [ICLR2020](https://iclr.cc/Conferences/2020/Volunteers) <br/>
