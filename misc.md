@@ -33,7 +33,7 @@ nav_menu_index: '4'
 	
 * [T2 Big Data Hackathon](http://www.t2hackathon.com/2014/)<br/>
 Makbule Gülçin Özsoy, Soner Altin, Erkan Kerti, Serkan Ozal, Ibrahim Gurses, Baris Bal, Abdullah Cetin Cavdar, T2 Yazilim<br/>
-T2 Big Data Hackathon, Calgary, Ankara, Turkey, 2014
+T2 Big Data Hackathon, Ankara, Turkey, 2014
 	
 ## Volunteered 
 
