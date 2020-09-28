@@ -26,7 +26,7 @@ permalink: /research/
 
 * [A Distributed Asynchronous Deep Reinforcement Learning Framework for Recommender Systems](https://drive.google.com/file/d/1DULPZtXdUUnzNjwe3BQmD3sViOmYILCf/view) <br/>
 	Bichen Shi,  Elias Z Tragos, Makbule Gülçin Özsoy, Ruihai Dong, Barry Smyth, Neil Hurley, Aonghus Lawlor<br/>
-	REVEAL, RecSys, 2020, 2020<br/>
+	REVEAL, RecSys, 2020<br/>
 	
 * [MP4Rec: Explainable And Accurate Top-N Recommendations In Heterogeneous Information Networks]() <br/>
 	Makbule Gülçin Özsoy, Diarmuid O'Reilly-Morgan, Panagiotis Symeonidis, Neil Hurley, Barry Smyth, Elias~Z Tragos, Aonghus Lawlor<br/>
