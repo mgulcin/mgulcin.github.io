@@ -8,7 +8,11 @@ permalink: /research/
 
 ## Unrefereed Publications
 
-* [Utilizing FastText for Venue Recommendation.](https://arxiv.org/abs/2005.12982)
+* [Beyond Next Item Recommendation: Recommending and Evaluating List of Sequences](hhttps://arxiv.org/abs/2008.13281)
+	Makbule Gülçin Özsoy<br/>
+	arXiv, 2020<br/>
+	
+* [Utilizing FastText for Venue Recommendation](https://arxiv.org/abs/2005.12982)
 	Makbule Gülçin Özsoy<br/>
 	arXiv, 2020<br/>
 	[[source code]](https://github.com/mgulcin/FastTextRec)<br/>
@@ -20,12 +24,16 @@ permalink: /research/
 
 ## Refereed Publications 
 
+* [A Distributed Asynchronous Deep Reinforcement Learning Framework for Recommender Systems](https://drive.google.com/file/d/1DULPZtXdUUnzNjwe3BQmD3sViOmYILCf/view) <br/>
+	Bichen Shi,  Elias Z Tragos, Makbule Gülçin Özsoy, Ruihai Dong, Barry Smyth, Neil Hurley, Aonghus Lawlor<br/>
+	REVEAL, RecSys, 2020, 2020<br/>
+	
 * [MP4Rec: Explainable And Accurate Top-N Recommendations In Heterogeneous Information Networks]() <br/>
-	Makbule Gülçin Özsoy, Diarmuid O'Reilly-Morgan, Panagiotis Symeonidis, Neil Hurley, Barry Smyth, Elias~Z Tragos, and Aonghus Lawlor<br/>
+	Makbule Gülçin Özsoy, Diarmuid O'Reilly-Morgan, Panagiotis Symeonidis, Neil Hurley, Barry Smyth, Elias~Z Tragos, Aonghus Lawlor<br/>
 	Submitted, 2020<br/>
 	
 * [A Survey On Deep Reinforcement Learning-based Recommender Systems]() <br/>
-	Makbule Gülçin Özsoy, Neil Hurley, Barry Smyth, Elias~Z Tragos, James Geraci, and Aonghus Lawlor<br/>
+	Makbule Gülçin Özsoy, Neil Hurley, Barry Smyth, Elias~Z Tragos, James Geraci, Aonghus Lawlor<br/>
 	Submitted, 2020<br/>
 	
 * [PyRecGym: A Reinforcement Learning Gym For Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3298689.3346981) <br/>
