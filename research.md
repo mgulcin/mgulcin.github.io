@@ -8,7 +8,7 @@ permalink: /research/
 
 ## Unrefereed Publications
 
-* [Beyond Next Item Recommendation: Recommending and Evaluating List of Sequences](hhttps://arxiv.org/abs/2008.13281)
+* [Beyond Next Item Recommendation: Recommending and Evaluating List of Sequences](https://arxiv.org/abs/2008.13281)
 	Makbule Gülçin Özsoy<br/>
 	arXiv, 2020<br/>
 	
