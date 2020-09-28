@@ -8,16 +8,16 @@ permalink: /research/
 
 ## Unrefereed Publications
 
-* [Beyond Next Item Recommendation: Recommending and Evaluating List of Sequences](https://arxiv.org/abs/2008.13281)
+* [Beyond Next Item Recommendation: Recommending and Evaluating List of Sequences](https://arxiv.org/abs/2008.13281)<br/>
 	Makbule Gülçin Özsoy<br/>
 	arXiv, 2020<br/>
 	
-* [Utilizing FastText for Venue Recommendation](https://arxiv.org/abs/2005.12982)
+* [Utilizing FastText for Venue Recommendation](https://arxiv.org/abs/2005.12982)<br/>
 	Makbule Gülçin Özsoy<br/>
 	arXiv, 2020<br/>
 	[[source code]](https://github.com/mgulcin/FastTextRec)<br/>
 	
-* [From Word Embeddings To Item Recommendation](https://arxiv.org/abs/1601.01356)
+* [From Word Embeddings To Item Recommendation](https://arxiv.org/abs/1601.01356)<br/>
 	Makbule Gülçin Özsoy<br/>
 	arXiv, 2016<br/>
 	[[source code]](https://github.com/mgulcin/DL_Rec)<br/>
