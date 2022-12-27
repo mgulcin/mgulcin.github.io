@@ -7,11 +7,10 @@ seo:
 nav_menu_index: '0'
 ---
 
-I'm a PostDoctoral Researcher at Insight Centre for Data Analytics, University College Dublin (UCD) (Dublin, Ireland) since February 2019.
+I'm a Software Developer/Machine Learning Engineer at Meta (formerly Facebook), London, UK since January 2021. I work on production related projects relevant to recommender systems, ranking and information retrieval.
 
-My research interests are recommender systems, machine learning and information retrieval.
-Nowadays, I work on two main topics related to recommender systems:<br/>
-(i) Making explainable and novel recommendations in heterogeneous information networks.<br/>
+Previously, I was a PostDoctoral Researcher at Insight Centre for Data Analytics, University College Dublin (UCD) (Dublin, Ireland) in between February 2019-January 2021. My research interests were recommender systems, machine learning and information retrieval. I mainly focused on <br/>
+(i) Making explainable and novel recommendations in heterogeneous information networks and <br/>
 (ii) Application of reinforcement learning methods to recommender systems.
 
 
