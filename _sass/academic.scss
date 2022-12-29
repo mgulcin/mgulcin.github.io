@@ -2,32 +2,32 @@
 
 $type-scale-large: (
   h1: 2.041rem,
-  h2: 1.553em,
-  h3: 1.463rem,
-  h4: 1.333rem,
-  p: 1.25rem,
-  small: 1.15rem,
-  vsmall: 1rem,
-);
-
-$type-scale-medium: (
-  h1: 1.841rem,
   h2: 1.453em,
   h3: 1.363rem,
   h4: 1.233rem,
-  p: 1.18rem,
+  p: 1.15rem,
   small: 1.05rem,
   vsmall: 0.93rem,
 );
 
+$type-scale-medium: (
+  h1: 1.841rem,
+  h2: 1.353em,
+  h3: 1.263rem,
+  h4: 1.133rem,
+  p: 1.08rem,
+  small: 0.95rem,
+  vsmall: 0.83rem,
+);
+
 $type-scale-small: (
   h1: 1.648rem,
-  h2: 1.319rem,
-  h3: 1.275rem,
-  h4: 1.133rem,
-  p: 1.1rem,
-  small: 0.95rem,
-  vsmall: 0.85rem,
+  h2: 1.219rem,
+  h3: 1.175rem,
+  h4: 1.033rem,
+  p: 1.0rem,
+  small: 0.85rem,
+  vsmall: 0.75rem,
 );
 
 $type-line-large: (
