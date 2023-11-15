@@ -10,6 +10,10 @@ permalink: /research/
 * [A Distributed Asynchronous Deep Reinforcement Learning Framework for Recommender Systems](https://drive.google.com/file/d/1DULPZtXdUUnzNjwe3BQmD3sViOmYILCf/view) <br/>
 	Bichen Shi,  Elias Z Tragos, Makbule Gülçin Özsoy, Ruihai Dong, Barry Smyth, Neil Hurley, Aonghus Lawlor<br/>
 	REVEAL workshop, RecSys, 2020<br/>
+ 
+ * [A Survey On Deep Reinforcement Learning-based Recommender Systems]() <br/>
+	Makbule Gülçin Özsoy, Neil Hurley, Barry Smyth, Elias~Z Tragos, James Geraci, Aonghus Lawlor<br/>
+	Submitted, 2020<br/>
 
 * [Beyond Next Item Recommendation: Recommending and Evaluating List of Sequences](https://arxiv.org/abs/2008.13281)<br/>
 	Makbule Gülçin Özsoy<br/>
@@ -27,13 +31,13 @@ permalink: /research/
 
 ## Refereed Publications 
 
-* [MP4Rec: Explainable And Accurate Top-N Recommendations In Heterogeneous Information Networks]() <br/>
+* [DARES: An Asynchronous Distributed Recommender System Using Deep Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9448142) <br/>
+	Bichen Shi, Elias Z Tragos, Makbule Gülçin Özsoy, Ruihai Dong, Neil Hurley, Barry Smyth, Aonghus Lawlor<br/>
+	IEEE Access, 2021 <br/>
+ 
+* [MP4Rec: Explainable And Accurate Top-N Recommendations In Heterogeneous Information Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9212399) <br/>
 	Makbule Gülçin Özsoy, Diarmuid O'Reilly-Morgan, Panagiotis Symeonidis, Elias Z Tragos, Neil Hurley, Barry Smyth, Aonghus Lawlor<br/>
-	Accepted, IEEE Access, 2020<br/>
-	
-* [A Survey On Deep Reinforcement Learning-based Recommender Systems]() <br/>
-	Makbule Gülçin Özsoy, Neil Hurley, Barry Smyth, Elias~Z Tragos, James Geraci, Aonghus Lawlor<br/>
-	Submitted, 2020<br/>
+	IEEE Access, 2020<br/>
 	
 * [PyRecGym: A Reinforcement Learning Gym For Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3298689.3346981) <br/>
 	Bichen Shi, Makbule Gülçin Özsoy, Neil Hurley, Barry Smyth, Elias Z Tragos, James Geraci, Aonghus Lawlor<br/>
