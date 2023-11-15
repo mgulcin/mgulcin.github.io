@@ -12,7 +12,7 @@ permalink: /research/
 	REVEAL workshop, RecSys, 2020<br/>
  
  * [A Survey On Deep Reinforcement Learning-based Recommender Systems](../assets/papers/ASurveyonDeepReinforcementLearningbasedRecommenderSystems.pdf) <br/>
-	Makbule Gülçin Özsoy, Neil Hurley, Barry Smyth, Elias~Z Tragos, James Geraci, Aonghus Lawlor<br/>
+	Makbule Gülçin Özsoy<br/>
 	2020<br/>
 
 * [Beyond Next Item Recommendation: Recommending and Evaluating List of Sequences](https://arxiv.org/abs/2008.13281)<br/>
