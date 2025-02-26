@@ -4,33 +4,60 @@ title: Research
 nav_menu_index: '3'
 permalink: /research/
 ---
+## Recent Publications (Last 5 Years - 2025)
+* [Text2Cypher: Bridging Natural Language and Graph Databases](https://aclanthology.org/2025.genaik-1.11.pdf) <br/>
+	Makbule Gülçin Özsoy, Leila Messallem, Jon Besga, Gianandrea Minneci <br/>
+	GENAIK workshop, COLING, 2025 <br/>
+ 
+* [Multilingual Prompts in LLM-Based Recommenders: Performance Across Languages](https://arxiv.org/pdf/2409.07604) <br/>
+	Makbule Gülçin Özsoy <br/>
+	ROEGEN workshop, RecSys, 2024 <br/>
+ 
+* [Multi-Margin Cosine Loss: Proposal and Application in Recommender Systems](https://arxiv.org/pdf/2405.04614) <br/>
+	Makbule Gülçin Özsoy <br/>
+	ICMLA (To be published), 2024 <br/>
+ 
+* [DARES: An Asynchronous Distributed Recommender System Using Deep Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9448142) <br/>
+	Bichen Shi, Elias Z Tragos, Makbule Gülçin Özsoy, Ruihai Dong, Neil Hurley, Barry Smyth, Aonghus Lawlor<br/>
+	IEEE Access, 2021 <br/>
 
-
-## Non-Refereed Publications
-* [A Distributed Asynchronous Deep Reinforcement Learning Framework for Recommender Systems](https://drive.google.com/file/d/1DULPZtXdUUnzNjwe3BQmD3sViOmYILCf/view) <br/>
+* [MP4Rec: Explainable And Accurate Top-N Recommendations In Heterogeneous Information Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9212399) <br/>
+	Makbule Gülçin Özsoy, Diarmuid O'Reilly-Morgan, Panagiotis Symeonidis, Elias Z Tragos, Neil Hurley, Barry Smyth, Aonghus Lawlor<br/>
+	IEEE Access, 2020<br/>
+ 
+* [A Distributed Asynchronous Deep Reinforcement Learning Framework for Recommender Systems](https://researchrepository.ucd.ie/server/api/core/bitstreams/a8b90e5e-113b-47db-a020-e0b7789c14ff/content) <br/>
 	Bichen Shi,  Elias Z Tragos, Makbule Gülçin Özsoy, Ruihai Dong, Barry Smyth, Neil Hurley, Aonghus Lawlor<br/>
 	REVEAL workshop, RecSys, 2020<br/>
- 
- * [A Survey On Deep Reinforcement Learning-based Recommender Systems](../assets/papers/ASurveyonDeepReinforcementLearningbasedRecommenderSystems.pdf) <br/>
+
+* [A Survey On Deep Reinforcement Learning-based Recommender Systems](../assets/papers/ASurveyonDeepReinforcementLearningbasedRecommenderSystems.pdf) <br/>
 	Makbule Gülçin Özsoy<br/>
 	2020<br/>
-
+ 
 * [Beyond Next Item Recommendation: Recommending and Evaluating List of Sequences](https://arxiv.org/abs/2008.13281)<br/>
 	Makbule Gülçin Özsoy<br/>
 	arXiv, 2020<br/>
-	
-* [Utilizing FastText for Venue Recommendation](https://arxiv.org/abs/2005.12982)<br/>
+
+ * [Utilizing FastText for Venue Recommendation](https://arxiv.org/abs/2005.12982)<br/>
 	Makbule Gülçin Özsoy<br/>
 	arXiv, 2020<br/>
 	[[source code]](https://github.com/mgulcin/FastTextRec)<br/>
-	
-* [From Word Embeddings To Item Recommendation](https://arxiv.org/abs/1601.01356)<br/>
-	Makbule Gülçin Özsoy<br/>
-	arXiv, 2016<br/>
-	[[source code]](https://github.com/mgulcin/DL_Rec)<br/>
 
-## Refereed Publications 
+ 
 
+## All Refereed Publications 
+
+* [Text2Cypher: Bridging Natural Language and Graph Databases](https://aclanthology.org/2025.genaik-1.11.pdf) <br/>
+	Makbule Gülçin Özsoy, Leila Messallem, Jon Besga, Gianandrea Minneci <br/>
+	GENAIK workshop, COLING, 2025 <br/>
+ 
+* [Multilingual Prompts in LLM-Based Recommenders: Performance Across Languages](https://arxiv.org/pdf/2409.07604) <br/>
+	Makbule Gülçin Özsoy <br/>
+	ROEGEN workshop, RecSys'2024, 2024 <br/>
+ 
+* [Multi-Margin Cosine Loss: Proposal and Application in Recommender Systems](https://arxiv.org/pdf/2405.04614) <br/>
+	Makbule Gülçin Özsoy <br/>
+	ICMLA (To be published), 2024 <br/>
+ 
 * [DARES: An Asynchronous Distributed Recommender System Using Deep Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9448142) <br/>
 	Bichen Shi, Elias Z Tragos, Makbule Gülçin Özsoy, Ruihai Dong, Neil Hurley, Barry Smyth, Aonghus Lawlor<br/>
 	IEEE Access, 2021 <br/>
@@ -38,6 +65,10 @@ permalink: /research/
 * [MP4Rec: Explainable And Accurate Top-N Recommendations In Heterogeneous Information Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9212399) <br/>
 	Makbule Gülçin Özsoy, Diarmuid O'Reilly-Morgan, Panagiotis Symeonidis, Elias Z Tragos, Neil Hurley, Barry Smyth, Aonghus Lawlor<br/>
 	IEEE Access, 2020<br/>
+ 
+ * [A Distributed Asynchronous Deep Reinforcement Learning Framework for Recommender Systems](https://drive.google.com/file/d/1DULPZtXdUUnzNjwe3BQmD3sViOmYILCf/view) <br/>
+	Bichen Shi,  Elias Z Tragos, Makbule Gülçin Özsoy, Ruihai Dong, Barry Smyth, Neil Hurley, Aonghus Lawlor<br/>
+	REVEAL workshop, RecSys, 2020<br/>
 	
 * [PyRecGym: A Reinforcement Learning Gym For Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3298689.3346981) <br/>
 	Bichen Shi, Makbule Gülçin Özsoy, Neil Hurley, Barry Smyth, Elias Z Tragos, James Geraci, Aonghus Lawlor<br/>
@@ -101,7 +132,27 @@ permalink: /research/
 	COLING, 2010<br/>
 	[[source code]](https://github.com/mgulcin/LSASummarization)<br/>
 
+ 
+## All Non-Refereed Publications
+ 
+ * [A Survey On Deep Reinforcement Learning-based Recommender Systems](../assets/papers/ASurveyonDeepReinforcementLearningbasedRecommenderSystems.pdf) <br/>
+	Makbule Gülçin Özsoy<br/>
+	2020<br/>
+
+* [Beyond Next Item Recommendation: Recommending and Evaluating List of Sequences](https://arxiv.org/abs/2008.13281)<br/>
+	Makbule Gülçin Özsoy<br/>
+	arXiv, 2020<br/>
 	
+* [Utilizing FastText for Venue Recommendation](https://arxiv.org/abs/2005.12982)<br/>
+	Makbule Gülçin Özsoy<br/>
+	arXiv, 2020<br/>
+	[[source code]](https://github.com/mgulcin/FastTextRec)<br/>
+	
+* [From Word Embeddings To Item Recommendation](https://arxiv.org/abs/1601.01356)<br/>
+	Makbule Gülçin Özsoy<br/>
+	arXiv, 2016<br/>
+	[[source code]](https://github.com/mgulcin/DL_Rec)<br/>
+ 
 ## Theses
 
 * [A Multi-Objective Recommendation System](../assets/papers/ThesisPhD.pdf)<br/>
