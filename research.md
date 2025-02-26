@@ -135,7 +135,7 @@ permalink: /research/
  
 ## All Non-Refereed Publications
  
- * [A Survey On Deep Reinforcement Learning-based Recommender Systems](../assets/papers/ASurveyonDeepReinforcementLearningbasedRecommenderSystems.pdf) <br/>
+ * [A Survey On Deep Reinforcement Learning-based Recommender Systems](https://github.com/mgulcin/mgulcin.github.io/blob/master/assets/papers/ASurveyonDeepReinforcementLearningbasedRecommenderSystems.pdf) <br/>
 	Makbule Gülçin Özsoy<br/>
 	2020<br/>
 
