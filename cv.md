@@ -6,4 +6,4 @@ permalink: /cv/
 ---
 
 
-You can find my CV [here](../assets/CV_MGOzsoy_Aug24.pdf)
+You can find my CV [here](../assets/CV_MGOzsoy_March25.pdf)
