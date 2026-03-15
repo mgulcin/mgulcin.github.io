@@ -10,8 +10,6 @@ nav_menu_index: '4'
 	Makbule Gulcin Ozsoy  <br/>
 	Co-located with ICDE, 2026
 
-## Volunteered 
-
 * Volunteer, [ICLR2020](https://iclr.cc/Conferences/2020/Volunteers) <br/>
 	Makbule Gulcin Ozsoy  <br/>
 	International Conference on Learning Representations, Virtual, 2020
