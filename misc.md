@@ -5,7 +5,24 @@ permalink: /misc/
 nav_menu_index: '4'
 ---
 
-## Talks 
+## Professional Activities
+* Program Committee, [Beyond SQL Workshop 2026](https://beyond-sql.github.io/)  <br/>
+	Makbule Gulcin Ozsoy  <br/>
+	Co-located with ICDE, 2026
+
+## Volunteered 
+
+* [ICLR2020](https://iclr.cc/Conferences/2020/Volunteers) <br/>
+	Makbule Gülçin Özsoy <br/>
+	International Conference on Learning Representations, Virtual, 2020
+	
+## Academic Talks 
+* [Guest Lecture](../assets/papers/guestLecture_LancesterUni_2026.pdf), Large-scale Platforms for AI and Data Analysis, Lancaster University
+  	Makbule Gulcin Ozsoy  <br/>
+	Large-scale Platforms for AI and Data Analysis, Dr Tharindu Ranasinghe <br/>
+    Lancaster University, 2026 
+	
+## Non-Academic Talks 
 
 * [Women Techmakers Scholars Program](../assets/papers/WTM_13032017.pdf) <br/>
 	Makbule Gülçin Özsoy <br/>
@@ -35,10 +52,4 @@ nav_menu_index: '4'
 Makbule Gülçin Özsoy, Soner Altin, Erkan Kerti, Serkan Ozal, Ibrahim Gurses, Baris Bal, Abdullah Cetin Cavdar, T2 Yazilim<br/>
 T2 Big Data Hackathon, Ankara, Turkey, 2014
 	
-## Volunteered 
 
-* [ICLR2020](https://iclr.cc/Conferences/2020/Volunteers) <br/>
-	Makbule Gülçin Özsoy <br/>
-	International Conference on Learning Representations, Virtual, 2020
-	
-	
