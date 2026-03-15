@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Miscellaneous
+title: Professional Activities
 permalink: /misc/
 nav_menu_index: '4'
 ---
