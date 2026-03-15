@@ -13,10 +13,12 @@ nav_menu_index: '4'
 ## Volunteered 
 
 * Volunteer, [ICLR2020](https://iclr.cc/Conferences/2020/Volunteers) <br/>
+	Makbule Gulcin Ozsoy  <br/>
 	International Conference on Learning Representations, Virtual, 2020
 	
 ## Academic Talks 
 * Guest Lecture, [Recommender Systems and Knowledge Graphs](../assets/papers/guestLecture_LancesterUni_2026.pdf) <br/>
+	Makbule Gulcin Ozsoy  <br/>
 	Large-scale Platforms for AI and Data Analysis, Dr Tharindu Ranasinghe <br/>
     Lancaster University, UK, 2026 
 	
