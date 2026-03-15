@@ -13,14 +13,12 @@ nav_menu_index: '4'
 ## Volunteered 
 
 * [ICLR2020](https://iclr.cc/Conferences/2020/Volunteers) <br/>
-	Makbule Gülçin Özsoy <br/>
 	International Conference on Learning Representations, Virtual, 2020
 	
 ## Academic Talks 
-* [Guest Lecture](../assets/papers/guestLecture_LancesterUni_2026.pdf), Large-scale Platforms for AI and Data Analysis, Lancaster University
-  	Makbule Gulcin Ozsoy  <br/>
+* Guest Lecture, [Recommender Systems and Knowledge Graphs](../assets/papers/guestLecture_LancesterUni_2026.pdf) <br/>
 	Large-scale Platforms for AI and Data Analysis, Dr Tharindu Ranasinghe <br/>
-    Lancaster University, 2026 
+    Lancaster University, UK, 2026 
 	
 ## Non-Academic Talks 
 
@@ -49,7 +47,7 @@ nav_menu_index: '4'
 	Anita Borg Birthday Celebration Event, Calgary, Alberta, Canada, 2015
 	
 * [T2 Big Data Hackathon](http://www.t2hackathon.com/2014/)<br/>
-Makbule Gülçin Özsoy, Soner Altin, Erkan Kerti, Serkan Ozal, Ibrahim Gurses, Baris Bal, Abdullah Cetin Cavdar, T2 Yazilim<br/>
-T2 Big Data Hackathon, Ankara, Turkey, 2014
+	Makbule Gülçin Özsoy, Soner Altin, Erkan Kerti, Serkan Ozal, Ibrahim Gurses, Baris Bal, Abdullah Cetin Cavdar, T2 Yazilim<br/>
+	T2 Big Data Hackathon, Ankara, Turkey, 2014
 	
 
