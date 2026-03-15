@@ -12,7 +12,7 @@ nav_menu_index: '4'
 
 ## Volunteered 
 
-* [ICLR2020](https://iclr.cc/Conferences/2020/Volunteers) <br/>
+* Volunteer, [ICLR2020](https://iclr.cc/Conferences/2020/Volunteers) <br/>
 	International Conference on Learning Representations, Virtual, 2020
 	
 ## Academic Talks 
